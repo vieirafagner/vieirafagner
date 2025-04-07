@@ -3,7 +3,7 @@
 - 🔭 &nbsp;I am a Data Analyst, specializing in developing dashboards and reports for business areas using tools such as Power BI, Metabase, Tableau, and programming languages like SQL, Python, and R. :wink:
 - 🌱 &nbsp;I'm learning more about Python for data analysis.
 <br><br>
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
