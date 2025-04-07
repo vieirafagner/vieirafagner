@@ -1,8 +1,7 @@
 ### Hi there, I am Fagner. <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 - 🔭 &nbsp;I am a Data Analyst, specializing in developing dashboards and reports for business areas using tools such as Power BI, Metabase, Tableau, and programming languages like SQL, Python, and R. :wink:
-- 🌱 &nbsp;I’m currently learning machine learning and predictive models
-- 👨‍💻 &nbsp;Read more about my projects at ...
+- 🌱 &nbsp;I'm learning more about Python for data analysis.
 <br><br>
 ### 🤖 Linguagens e Tecnologias
 
@@ -57,7 +56,7 @@
 
 <br><br>
 
-
+<!-- 
 ### 📊 Estatísticas
 
 <p>
@@ -69,7 +68,7 @@
    <img 
   src="https://github-readme-stats.vercel.app/api?username=vieirafagner&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
 />
-
+-->
 
 
 <!-- 
